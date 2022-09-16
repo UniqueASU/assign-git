@@ -37,7 +37,7 @@ divergent work to merge together – this is called a “fast-forward.”
 • Why should you have different branches?
 - We have different branches to have code segregation when more than one person is working on 
 same project. People can push particular changes or features in their own branch and later merge 
-it with the main branch.
+it with the main branch. Branches make code more secure from unwanted push.
 
 • In a project how many remote Git repositories do you usually have?
-- Normally in a project we have 3 .
+- Normally in a project we have one. But we can have multiple as well depending on the project.
